@@ -1,5 +1,5 @@
 # Simple-Quiz-App-Flutter
-Very simple using Quiz app using Flutter.
+Very simple Quiz app using Flutter.
 
 A new Flutter project.
 
