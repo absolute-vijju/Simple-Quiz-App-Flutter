@@ -1,7 +1,10 @@
 # Simple-Quiz-App-Flutter
 Very simple Quiz app using Flutter.
 
-A new Flutter project.
+- Learned widgets(Stateful,Stateless), styling & positioning.
+
+## App Demo
+https://user-images.githubusercontent.com/53289959/155473046-4fedbc07-5556-4d99-9b80-d93cd4ec95be.mp4
 
 ## Getting Started
 
