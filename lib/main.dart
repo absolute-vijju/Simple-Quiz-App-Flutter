@@ -1,5 +1,3 @@
-import 'package:first_app/answer.dart';
-import 'package:first_app/question.dart';
 import 'package:first_app/quiz.dart';
 import 'package:first_app/result.dart';
 import 'package:flutter/material.dart';
